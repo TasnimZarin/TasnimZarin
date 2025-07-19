@@ -50,8 +50,13 @@
 ## 📌 Featured Projects
 - 🧠 **[INC Ontology Model](https://github.com/TasnimZarin)** – Semantic matchmaking system for holographic communication  
 - 🩺 **[Breast Cancer Detection](https://github.com/TasnimZarin)** – CNN-based image classifier with VGG16, ResNet  
-- 😷 **[AI Face Mask Detector](https://github.com/TasnimZarin)** – Bias-reduced CNN with gender-aware training  
+- 😷 **[AI Face Mask Detector](https://github.com/TasnimZarin)** – Bias-reduced CNN with gender-aware training
 
+---
+
+## 🧠 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-T__Zarin-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/T_Zarin/)
 
 <!--
 **TasnimZarin/TasnimZarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
