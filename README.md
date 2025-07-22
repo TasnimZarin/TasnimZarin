@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Zarin Tasnim
-🎓 M.Sc. in Computer Science | M.Sc. in Computer Science & Engineering
+🎓 M.Sc. in Computer Science | B.Sc. in Computer Science & Engineering
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zarin_Tasnim-blue)](https://linkedin.com/in/zarin-tasnim-6b548830a/)
 [![GitHub](https://img.shields.io/badge/GitHub-TasnimZarin-black?logo=github)](https://github.com/TasnimZarin)
 
