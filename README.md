@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 - 🧪 Working on: Microsoft Azure AI Engineer certification
-- 📚 Passionate about: AI, Machine Learning, Deep Learning, LLMs, and Natural Language Processing
+- 📚 Passionate about: Software Engineering, AI, Machine Learning, LLMs, and Full‐stack Development
 - 🌱 Exploring: CI/CD workflows with GitLab and deploying AI/ML systems on cloud platforms like Azure and Google Cloud
 
 ---
