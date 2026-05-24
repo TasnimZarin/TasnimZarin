@@ -10,8 +10,8 @@
 
 ## 🧠 About Me
 
-- 🔨 Working on: Full-stack e-commerce platform + agentic AI career coach
-- 💡 Passionate about: Backend engineering, REST APIs, LLMs, and full-stack development
+<!-- - 🔨 Working on: Full-stack e-commerce platform + agentic AI career coach -->
+- 💡 Passionate about: Full stack development, Data engineering, REST APIs, LLMs, and full-stack development
 - 🌱 Exploring: Agentic AI, LangChain, and RAG-based applications
 
 ---
